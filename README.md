@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akash2002ison/Akash2002ison/output/snake.svg" alt="Snake animation" />
+<img src="https://img.freepik.com/free-vector/designer-concept-illustration_114360-686.jpg?w=740&t=st=1694365571~exp=1694366171~hmac=fdf5e94f6d37e3822b681c26df2c51dc170e3290a5e71aa5c0c2b3ce7d4d57bd" alt="Snake animation" />
 
 ###
