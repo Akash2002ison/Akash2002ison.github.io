@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akash2002ison/Akash2002ison/output/snake.svg" alt="Snake animation" />
+<img src="https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-25.gif" alt="Snake animation" />
 
 ###
